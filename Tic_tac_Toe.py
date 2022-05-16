@@ -1,5 +1,4 @@
 # step 1: To display board
-
 def display_board(board):
     print('\n' * 100)
     print('   |   |')
